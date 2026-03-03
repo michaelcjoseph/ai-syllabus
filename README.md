@@ -62,6 +62,10 @@ Before touching math or code, build a mental model of the full AI infrastructure
 | Resource | Type | Link |
 |----------|------|------|
 | IEA – "The Role of Critical Minerals in Clean Energy Transitions" | Report | [iea.org/reports](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions) |
+| IEA – "Export Controls on Critical Minerals"                                       | Commentary | [iea.org/commentaries](https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality)        |
+| FP Analytics – "AI and the Critical Minerals Crunch"                               | Report     | [fpanalytics.foreignpolicy.com](https://fpanalytics.foreignpolicy.com/2025/07/18/artificial-intelligence-critical-minerals-supply-chains/) |
+| Craig Tindale – "Critical Materials: A Strategic Analysis"                         | Thread     | [x.com](https://x.com/ctindale/status/1997471488514134481/?s=12&rw_tt_thread=True)                                                         |
+| @howdymerry – "The New Space Race Is Seizing the Means of Intelligence Production" | Thread     | [x.com](https://x.com/howdymerry/status/2014818226572792082/?s=12&rw_tt_thread=True)                                                       |
 
 **2. Semiconductor Equipment:** Lithography, deposition, etching
 > ASML maintains a 100% monopoly on extreme ultraviolet (EUV) lithography machines, the only equipment capable of printing sub-7nm features required for advanced AI chips. Each machine costs $150–200M and takes 18 months to build. Under US pressure, the Netherlands restricted EUV exports to China, the most consequential export control in modern history. Without EUV, China cannot manufacture chips below ~7nm.
@@ -110,6 +114,8 @@ Before touching math or code, build a mental model of the full AI infrastructure
 |----------|------|------|
 | Deloitte – US Data Center Power Projections | Report | [deloitte.com](https://www.deloitte.com/us/en/insights/industry/power-and-utilities/nuclear-energy-powering-data-centers.html) |
 | "Energy and AI" – IEA | Report | [iea.org/energy-system/buildings/data-centres-and-data-transmission-networks](https://www.iea.org/energy-system/buildings/data-centres-and-data-transmission-networks) |
+| IAEA – "Data Centres Eye Advanced Nuclear"                        | Report | [iaea.org](https://www.iaea.org/bulletin/data-centres-artificial-intelligence-and-cryptocurrencies-eye-advanced-nuclear-to-meet-growing-power-needs)                   |
+| Leopold Aschenbrenner – "Racing to the Trillion-Dollar Cluster"   | Essay  | [situational-awareness.ai](https://situational-awareness.ai/racing-to-the-trillion-dollar-cluster/)                                                                    |
 
 **8. Data Centers:** Cloud compute facilities
 > The three hyperscalers (AWS, Azure, GCP) dominate, but specialized AI cloud providers (CoreWeave, Lambda, Crusoe) are growing fast. Space-based data centers may be inevitable. If the US leads in establishing these, it could provide significant advantage in the AI competition.
