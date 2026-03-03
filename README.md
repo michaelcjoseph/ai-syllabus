@@ -77,7 +77,7 @@ Before touching math or code, build a mental model of the full AI infrastructure
 
 | Resource | Type | Link |
 |----------|------|------|
-| Ben Thompson – "Chips and Geopolitics" | Analysis | [stratechery.com](https://stratechery.com/) |
+| Ben Thompson – "Chips and Geopolitics" | Analysis | [stratechery.com](https://stratechery.com/2020/chips-and-geopolitics/) |
 | SemiAnalysis Newsletter | Industry Analysis | [semianalysis.com](https://www.semianalysis.com/) |
 
 **4. Memory & Storage:** DRAM, NAND, HBM
@@ -85,7 +85,7 @@ Before touching math or code, build a mental model of the full AI infrastructure
 
 | Resource | Type | Link |
 |----------|------|------|
-| "The Memory Wall" – HBM Explainer | Analysis | [semianalysis.com](https://www.semianalysis.com/) |
+| "The Memory Wall" – HBM Explainer | Analysis | [semianalysis.com](https://newsletter.semianalysis.com/p/the-memory-wall) |
 
 **5. Processors:** GPUs, TPUs, AI accelerators
 > NVIDIA holds over 94% share of the discrete GPU market. The moat rests on the CUDA software ecosystem (two decades of developer investment that makes switching costs enormous), not the hardware alone. Custom silicon from hyperscalers (Google TPUs, Amazon Inferentia/Trainium, Microsoft Azure Maia) represents ongoing efforts to reduce NVIDIA dependence.
@@ -94,21 +94,21 @@ Before touching math or code, build a mental model of the full AI infrastructure
 |----------|------|------|
 | NVIDIA CUDA Documentation | Reference | [docs.nvidia.com/cuda](https://docs.nvidia.com/cuda/) |
 | Google TPU Research Papers | Papers | [cloud.google.com/tpu/docs/publications](https://cloud.google.com/tpu/docs/publications) |
-| "The GPU Shortage" (Horace He) | Analysis | [horace.io](https://horace.io/) |
+| "Making Deep Learning Go Brrrr From First Principles" (Horace He) | Analysis | [horace.io](https://horace.io/brrr_intro.html) |
 
 **6. Networking:** Data center interconnects
 > InfiniBand (NVIDIA/Mellanox) and high-speed Ethernet fabrics determine how fast GPUs can communicate during distributed training. Networking bandwidth is often the real bottleneck at scale, not raw compute.
 
 | Resource | Type | Link |
 |----------|------|------|
-| "Networking for AI" – The Gradient | Analysis | [thegradient.pub](https://thegradient.pub/) |
+| "Networking for Data Centers and the Era of AI" – NVIDIA | Analysis | [nvidia.com](https://developer.nvidia.com/blog/networking-for-data-centers-and-the-era-of-ai/) |
 
 **7. Energy Infrastructure:** Power generation and transmission
 > Deloitte projects US data center power capacity will grow from 33 GW in 2024 to 176 GW by 2035, and that may be too small an estimate. Power availability is becoming the binding constraint on AI scaling.
 
 | Resource | Type | Link |
 |----------|------|------|
-| Deloitte – US Data Center Power Projections | Report | [deloitte.com](https://www.deloitte.com/) |
+| Deloitte – US Data Center Power Projections | Report | [deloitte.com](https://www.deloitte.com/us/en/insights/industry/power-and-utilities/nuclear-energy-powering-data-centers.html) |
 | "Energy and AI" – IEA | Report | [iea.org/energy-system/buildings/data-centres-and-data-transmission-networks](https://www.iea.org/energy-system/buildings/data-centres-and-data-transmission-networks) |
 
 **8. Data Centers:** Cloud compute facilities
